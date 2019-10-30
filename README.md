@@ -1,4 +1,4 @@
-# The-Root-Cause-of-Product-Failure
+# The Root Cause of Product Failure
 
 This is a summary of Marty Cagan's talk "The root cause of product failure" at USI
 
