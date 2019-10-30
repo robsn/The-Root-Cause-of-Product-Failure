@@ -120,9 +120,9 @@ Biggest problem is the cost of opportunity.
 - -> Alternative to roadmaps -> prioritize business outcomes
 
 When you are building a **M**inimum **V**iable **P**roduct, this basically is not a product but more rather an experiment, usually a prototype.
-**Google** Fake it before you make it
-**AirBnb** Build things that don't scale
-**Facebook** Move fast but don’t break things ( Marty Cagan may accidentally said this wrong, Searching the internet gives the facebook motto Move fast and break things)
+- **Google** Fake it before you make it
+- **AirBnb** Build things that don't scale
+- **Facebook** Move fast but don’t break things ( Marty Cagan may accidentally said this wrong, Searching the internet gives the facebook motto Move fast and break things)
 
 To make you product market fit, you'll first need good answers to following questions
 1. Would the user buy it or choose to use it?
